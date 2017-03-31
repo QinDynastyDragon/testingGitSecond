@@ -1,0 +1,3 @@
+Hello, my name is Jimmy Chan, 
+
+I love js, cpp, html, cs, java, css, 
