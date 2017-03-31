@@ -1,3 +1,5 @@
 Hello, my name is Jimmy Chan, 
 
 I love js, cpp, html, cs, java, css, 
+
+Some new changes, I just ate a hamburgers
